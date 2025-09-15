@@ -78,10 +78,9 @@ The app uses Next.js API routes:
 
 ---
 
-## ⚡ Getting Started (Local Development)
+## ⚡ Deployment
+- Hosted on Vercel
+- Auto-deploys whenever code is pushed to GitHub (main branch)
+- Works best with Postgres (Neon/Supabase) for persistent database storage
 
-### 1. Clone the repo
-```bash
-git clone https://github.com/your-username/knowledge-hub.git
-cd knowledge-hub
-
+Built by Sriram
